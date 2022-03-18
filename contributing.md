@@ -13,4 +13,4 @@ Please ensure your pull request adheres to the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 - Use the `#readme` anchor for GitHub READMEs to link them directly
 
-Thank you very much for your suggestions!
+Thanks a lot for your suggestions!
